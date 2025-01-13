@@ -10,6 +10,7 @@ Passionate about quantum technology, oss and reproducibility.
 
 🔭 **Featured Projects**
 - [Digital Garden](https://alejandrogomezfrieiro.github.io) - My personal digital garden
+- My Neovim/Nixvim [config](https://github.com/AlejandroGomezFrieiro/nixvim_config)
 
 📊 **GitHub Stats**
 <p align="center">
